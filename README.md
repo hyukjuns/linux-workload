@@ -4,7 +4,6 @@
   - Repo: [NFS,SMB,iSCSI](storage/storage.md)
 ## Architectures
 - IP Masquerading in 3 tier architecture
-  - Repo: [IP Masquerading](ip-masquerade)
-  ![images/masquerade_network2.png](ip-masquerade/images/masquerade_network2.png)
+  - Repo: [IP Masquerading](https://github.com/namhj94/linux-ip-masquerade)
 - Pacemaker
-  - Repo: [Pacemaker](pacemaker)
+  - Repo: [Pacemaker](https://github.com/namhj94/linux-pacemaker)
