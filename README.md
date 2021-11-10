@@ -9,12 +9,14 @@
 - Storage
   - [NFS,SMB,iSCSI](storage/storage.md)
   - glusterfs
-- 리눅스 서버 운영, 관리, 모니터링
+## Operation, Monitoring
   - CPU
   - Memory
   - Network
   - Disk
-  - TroubleShoots
+## TroubleShoots
+- Ubuntu NIC DHCP Fail
+- SU/SUDO disable
 ## Architectures
 - IP Masquerading in 3 tier architecture
   - [IP Masquerading](https://github.com/namhj94/linux-ip-masquerade)
